@@ -2,6 +2,7 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+  trailingSlash: "always",
   siteMetadata: {
     title: `gatsby-mdx`,
     siteUrl: `https://www.yourdomain.tld`
